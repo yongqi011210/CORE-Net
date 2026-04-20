@@ -1,0 +1,8 @@
+# ssdd_plus.yaml
+path: E:/mul/data/RSAR
+task: obb
+train: train
+val: test
+
+names:
+  0: ship
